@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+p {
+  text-align: center;
+  color: #808080;
+  margin-bottom: 10px;
+}
+#app {
+  overflow: hidden;
+}
