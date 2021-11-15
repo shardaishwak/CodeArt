@@ -150,6 +150,7 @@ let p2x = cx, p2y = cy-length;
 let p3x = cx+length, p3y = p2y;
 let p4x = cx+length, p4y = p3y-length;
 
+// @ts-ignore
 const draw = (p5: P5) => {
   p5.background(255, 255, 255)
   p5.stroke(0, 0, 0);
