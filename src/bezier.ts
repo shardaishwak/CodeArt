@@ -1,5 +1,5 @@
 import './style.css'
-import * as P5 from 'p5';
+import P5 from 'p5';
 
 // Introduction to the concept
 
